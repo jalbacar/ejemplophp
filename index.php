@@ -1,3 +1,4 @@
 <?php
- phpinfo();
+print("Cambio en codigo"); 
+phpinfo();
 ?>
