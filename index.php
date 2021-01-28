@@ -1,4 +1,4 @@
 <?php
-print("Cambio en codigo"); 
+print("Ultima sesion Curso"); 
 phpinfo();
 ?>
