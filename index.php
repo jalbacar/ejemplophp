@@ -1,4 +1,4 @@
 <?php
-print("Ultima sesion Curso OpenShift XXX"); 
+print("Ultima sesion Curso OpenShift"); 
 phpinfo();
 ?>
